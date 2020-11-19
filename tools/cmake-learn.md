@@ -1,8 +1,12 @@
-# cmake
+# 概念
 
-## demo
 
-### hello world
+
+# demo
+
+## hello world 
+
+使用 cmake 构建一个 hello world 项目
 
 1. 初始化
     ```bash
@@ -41,14 +45,11 @@
     make
     ./hello
     ```
-### hello world 工程
+## hello world 工程
 
 
 
-## 概念
-
-
-## 参考资料
+# 参考资料
 
 - [CMake_快速入门](https://durant35.github.io/2016/04/21/tool_CMake_%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/)
 - [Cmake 实践](https://durant35.github.io/uploads/CMake%20Practice.pdf)
